@@ -1,0 +1,30 @@
+1. A genealogia não é uma escada porque as linguagens não substituem necessariamente as anteriores. Elas podem continuar sendo usadas em diferentes áreas. Isso acontece principalmente pelo domínio de aplicação e pela influência de ideias entre linguagens.
+2. Plankalkül foi importante por antecipar conceitos de linguagens modernas, mesmo sem ter sido implementada. Entre eles estão vetores, registros e ponto flutuante. Os vetores, por exemplo, facilitam o trabalho com conjuntos de valores.
+3. Short Code e Speedcoding buscavam facilitar a programação, enquanto A-0/A-1/A-2 utilizavam subprogramas para gerar código. Não eram compiladores modernos porque seus recursos e métodos de tradução ainda eram bastante limitados.
+4. Fortran precisava provar que o código traduzido poderia ser rápido. Se o desempenho fosse próximo ao código de máquina, os programadores poderiam economizar muito tempo sem perder eficiência.
+5. Fortran era voltada para cálculos científicos e numéricos. Lisp era voltada para processamento simbólico, usando principalmente listas e favorecendo a recursão.
+6. ALGOL 60 contribuiu com blocos, recursão e BNF. Mesmo sem grande sucesso comercial, influenciou muitas linguagens posteriores, mostrando que influência técnica não depende de domínio do mercado.
+7. COBOL foi criada para o processamento comercial, por isso valorizava a leitura e o uso de registros. Sua sintaxe próxima do inglês recebeu forte influência da FLOW-MATIC.
+8. BASIC buscou facilitar a programação para iniciantes, priorizando simplicidade. PL/I buscou reunir muitos recursos e atender diferentes áreas, aceitando maior complexidade.
+9. APL focou em arrays, SNOBOL em processamento de textos e SIMULA 67 em simulação. Suas contribuições incluem operações vetoriais, casamento de padrões e o conceito de classes.
+10. Ortogonalidade significa que os recursos da linguagem podem ser combinados de forma uniforme. ALGOL 68 mostra que regularidade não significa simplicidade, pois muitas combinações podem tornar uma linguagem difícil de aprender.
+
+11. ALGOL influenciou Pascal, e a tradição de programação estruturada também influenciou C. As três seguem principalmente o paradigma imperativo, no qual o programador define as ações. Prolog é declarativo: descreve fatos e regras, e o sistema busca respostas por inferência lógica.
+
+12. Exemplo: estudante(ana). estudante(joao). estuda(X) :- estudante(X). Consulta: estuda(ana). A resposta é verdadeira. É programação lógica porque usa fatos, regras e inferência para responder à consulta.
+
+13. Ada foi criada para sistemas grandes e críticos. Seus tipos fortes ajudam a evitar erros, os pacotes organizam o código e a concorrência permite executar tarefas simultaneamente. Essas características aumentam a confiabilidade.
+
+14. Smalltalk coloca os objetos no centro da linguagem. C++ adiciona orientação a objetos ao C, mantendo compatibilidade e recursos de baixo nível. Java também usa objetos, mas utiliza uma máquina virtual para facilitar a portabilidade.
+
+15. Java não foi criada para a Web, mas suas características de portabilidade e segurança ajudaram na adoção pela Internet. Isso mostra que uma linguagem pode ganhar importância em um novo contexto tecnológico.
+
+16. Perl destacou-se em textos e scripts; JavaScript, na Web; PHP, em páginas dinâmicas; Python, como linguagem geral; Ruby, na orientação a objetos; e Lua, como linguagem leve e incorporável. Portanto, cada uma possui estruturas e implementações próprias.
+
+17. C# adotou coleta de lixo, como Java, para evitar problemas de gerenciamento manual de memória. Também manteve uma sintaxe próxima de C e C++, mas com ambiente gerenciado, buscando maior segurança e produtividade.
+
+18. XSLT transforma documentos XML em outras saídas. JSP gera páginas Web dinamicamente. Ambas são híbridas porque misturam marcação com recursos de processamento.
+
+19. 1958 – LISP: programação funcional. 1960 – ALGOL: programação estruturada. 1970 – Pascal: influência de ALGOL. 1972 – C: programação de sistemas. 1983 – C++: influência de C. 1991 – Python: produtividade. 1995 – Java: máquina virtual. 1995 – JavaScript: Web. As relações representam influências técnicas e de paradigmas.
+
+20. Para cálculo científico, Fortran; para regras, Prolog; para Web, JavaScript; para firmware, C. Fortran oferece desempenho numérico, Prolog facilita regras, JavaScript domina a interatividade Web e C oferece controle do hardware. Os principais trade-offs são desempenho versus facilidade e controle versus segurança.
